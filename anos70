@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQB9kbQ-yB7hFiTkjqbTfHSqj5gg0NOL_hBoQ&usqp=CAU", Os Maiores Sucessos Dos Anos 70 Vol.1 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WyfoUPFFrCk
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoLGCmjhTewfjpQIU083vJZ1djeVLlEY9etw&usqp=CAU", Os Maiores Sucessos Dos Anos 70 Vol.2 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ymQcyVCUw_U
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQISLhW30DQVinDSvryxI68fBIaD9bbreChdA&usqp=CAU", Os Maiores Sucessos Dos Anos 70 Vol.3 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dbhXbZQviFE
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/112/full/20210501_115110.jpg?1619880727", BLOQUEADO-Os Maiores Sucessos Dos Anos 70 Vol.4 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Tkxv6BOHYJg
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_185f411767484047a472e3108137b657~mv2.jpg", Os Maiores Sucessos Dos Anos 70 Vol.5 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Tkxv6BOHYJg
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_XOn1rVidlzvKpMNk9Xdrrl9wjX2vL69D9Q&usqp=CAU", Os Maiores Sucessos Dos Anos 70 Vol.6 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jgA3I_Y0O5I
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/473/original/d73f9c_6013285ab84647eb87dbe69a635eb8e5_mv2.jpg?1619902936", Os Maiores Sucessos Dos Anos 70 Vol.7 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=e6URl5TAOuo
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBCsW2maqcZs4SuI0wdY0ZOhCsyK5omZEQ0A&usqp=CAU", Os Maiores Sucessos Dos Anos 70 Vol.8 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1HkxYSzR_64
+
